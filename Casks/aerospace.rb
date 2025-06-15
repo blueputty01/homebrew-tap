@@ -1,6 +1,6 @@
 cask "aerospace" do
   version '0.18.5-Beta'
-  sha256 "eb9854556d83dd446cf3e62d25243cfb1f7a2cf9863c0f1d17b0bc4fcc477730"
+  sha256 "a3a29cca1bcdd516358899a5109933d48002167710a8f8188d9c29562889476d"
 
   url "https://github.com/blueputty01/AeroSpace/releases/download/v#{version}/AeroSpace-v#{version}.zip"
   name "AeroSpace"
